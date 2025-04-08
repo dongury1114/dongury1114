@@ -45,8 +45,6 @@
 - `Selenium` 기반 크롤러와 `Slack API`, `Naver CommerceAPI` 통합
 - GitHub Actions + Vercel + GCP를 활용한 CI/CD 구성
 
-🔗 [GitHub Repository](https://github.com/donggyulee-dev/smartstore-monitor)
-
 ---
 
 ### 📫 Contact
