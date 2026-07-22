@@ -12,7 +12,7 @@
 
   ### 📈 Replay Trader
 
-  **[replay.flirtinghub.kr](https://replay.flirtinghub.kr)** — free, no sign-up · English / 한국어
+  **[replaytrader.theden.kr](https://replaytrader.theden.kr)** — free, no sign-up · English / 한국어
 
   A market-replay training platform. It replays historical BTC/ETH minute data as if it were
   live, so you can practise reading a chart and placing orders without risking capital.
@@ -23,8 +23,8 @@
   - **Binance USDⓈ-M perpetual mechanics** — isolated margin, funding, maker/taker fees,
     liquidation on wick touch, slippage on market fills.
   - **3.4M verified minute bars per symbol** with zero gaps, **136 automated tests**, and a
-    public [specification](https://replay.flirtinghub.kr/spec) and
-    [guide](https://replay.flirtinghub.kr/guide).
+    public [specification](https://replaytrader.theden.kr/spec) and
+    [guide](https://replaytrader.theden.kr/guide).
 
   `Next.js` `TypeScript` `Lightweight Charts™` `DuckDB` `node:sqlite`
 
