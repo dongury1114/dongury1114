@@ -59,9 +59,6 @@
     append-only logs before the side effect, not after, so a crash mid-operation leaves
     evidence instead of ambiguity.
 
-    append-only logs before the side effect, not after, so a crash mid-operation leaves
-    evidence instead of ambiguity.
-
   ---
 
   ### 🚀 Operating services
